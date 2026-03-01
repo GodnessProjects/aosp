@@ -1,5 +1,5 @@
 # AOSP ROMs Installable via Fastboot
-• Boot selector (choice of root or no root)  
+• Boot selector (choice of root or no root) (Apatch password: aosp1234 or redminote12s)
 • Ext4 for all partitions (super)  
 • Full R/W  
 • Installer via fastboot  
