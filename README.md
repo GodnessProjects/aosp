@@ -78,6 +78,8 @@ Special thanks to:
 
 -   Nem1x
 -   NotShazuxD
+-   doissM
+-   Pietroe43
 
 For compiling and providing these AOSP ROM builds.
 
