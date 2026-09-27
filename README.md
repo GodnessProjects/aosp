@@ -1,4 +1,4 @@
-# 📱 AOSP ROMs -- Fastboot Installer
+# 📱 AOSP ROMs For Redmi Note 12S -- Fastboot Installer
 
 Custom **AOSP-based ROMs** installable via **fastboot**
 
